@@ -3,7 +3,7 @@
 # Project Summary 
 This project endeavors to create an Amharic DBpedia Chapter, aiming to be the first sub-Saharan African language to join the internationalization efforts of DBpedia. Our goal is to extend the existing extractor framework for Amharic to allow knowledge graph extraction from Amharic Wikipedia. We will make the extracted knowledge graph queryable and available to end users via a web page .
 
-# Key Achivemnts and deliverables 
+# Key Achievements and Deliverables
   - Extended the DBpedia framework to support Amharic.
       - [View Change list](https://github.com/dbpedia/extraction-framework/pull/766) 
   - Added wiki template to DBepdia ontology class and properties mapping, achieving a 35% overall mapping completion, up from the initial 0%.
