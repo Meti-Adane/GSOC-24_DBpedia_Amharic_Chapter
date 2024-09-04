@@ -16,7 +16,6 @@ This project endeavors to create an Amharic DBpedia Chapter, aiming to be the fi
        - [Qlever endpoint](https://qlever-ui.dbpedia.nliwod.org)
   
   - Created and deployed a website for Amharic DBpedia, making the extracted triples accessible to users.
-      - [View Website](https://am.dbpedia.nliwod.org)
 
 
 # Project Description
